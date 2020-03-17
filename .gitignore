@@ -1,1 +1,4 @@
 # Dies ist nur
+# Eine neue Zeile
+# Ignore MacOS files
+.DS_Store
